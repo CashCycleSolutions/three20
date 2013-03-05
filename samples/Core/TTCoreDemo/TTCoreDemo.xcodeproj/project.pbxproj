@@ -318,10 +318,12 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6E645DCD11879B0400F08CB1 /* Project.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Nick  Whitfield (25P2DFWM6Q)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				PROVISIONING_PROFILE = "341DEF5C-FDFE-41B2-8644-647F242D6475";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -330,10 +332,12 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6E645DCD11879B0400F08CB1 /* Project.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Nick  Whitfield (25P2DFWM6Q)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				PROVISIONING_PROFILE = "341DEF5C-FDFE-41B2-8644-647F242D6475";
 				SDKROOT = iphoneos;
 			};
 			name = Release;
